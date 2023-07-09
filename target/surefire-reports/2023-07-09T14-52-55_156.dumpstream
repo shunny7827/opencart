@@ -1,0 +1,5 @@
+# Created at 2023-07-09T14:52:58.437
+Boot Manifest-JAR contains absolute paths in classpath 'P:\testing\automation_testing\java\opencart\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
